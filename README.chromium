@@ -10,3 +10,4 @@ YUV conversion and scaling functionality.
 
 Changes:
 Patch r1067 into r1038 to disable mips dsp2 code on iso r6.
+Patch r1268 into r1038 "fixe for InterpolateRow_MIPS_DSPR2"
